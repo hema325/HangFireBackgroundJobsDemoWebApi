@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZOjdE6gyKLJg0Ww74nQKVvK3hckWk47P1SpveAe/D4I=",
+  "Source": "HangFireBackgroundJobsDemoWebApi",
+  "BasePath": "_content/HangFireBackgroundJobsDemoWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
